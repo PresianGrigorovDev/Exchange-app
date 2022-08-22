@@ -41,6 +41,11 @@ To make sure that the app is going to work without erros, you have to do the fol
 4. click "Load API". This will load the rates api to the database.
 5. exit the admin panel by clicking "Exit Admin Panel"
 
+**Changes**
+====================
+1. Reworked the whole app from the ground up.
+2. Cleared the clutter of code by simplifing the code to a minimum. 
+3. Used the latest version of Laravel to make sure everything is up to date.
 
 **Cuurently not working**
 ====================
