@@ -1,5 +1,5 @@
 **How to install**
-
+====================
 **MacOS**
 ====================
 1. Make sure that you have git installed locally on your machine.
