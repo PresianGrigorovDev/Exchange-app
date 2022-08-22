@@ -43,7 +43,7 @@ To make sure that the app is going to work without erros, you have to do the fol
 
 **Changes**
 ====================
-1. Reworked the whole app from the ground up.г 
+1. Reworked the whole app from the ground up.
 2. Cleared the clutter of code by simplifing the code to a minimum. 
 3. Used the latest version of Laravel to make sure everything is up to date.
 
