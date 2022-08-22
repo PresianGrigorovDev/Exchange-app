@@ -28,7 +28,7 @@ class HomeController extends Controller
         $rates = Rates::first()->sortable()->filter()->paginate(10);
         
         $chart_options = [
-            'chart_title' => 'Users by months',
+            'chart_title' => 'Rate chart view',
             'report_type' => 'group_by_date',
             'model' => 'App\Models\Rates',
             'group_by_field' => 'created_at',
