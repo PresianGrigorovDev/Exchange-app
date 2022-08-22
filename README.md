@@ -43,5 +43,6 @@ To make sure that the app is going to work without erros, you have to do the fol
 
 
 **Cuurently not working**
+====================
 The chart is currently not working. The issue is that when a chart ( no matter what api I use ) the screan goes blank.
 This is a WIP issue.
