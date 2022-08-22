@@ -32,10 +32,16 @@ By default, the username is root and password is also root. (This is for Lamp)
 9. Go to localhost:8000
 
 
-** Before you start **
+**Before you start**
+====================
 To make sure that the app is going to work without erros, you have to do the following steps:
 1. go to /register and make an account. This will be your main admin account.
 2. go to your mysql GUI and change 'is_admin' to '1'. This will make your account an admin. (Making some to admin is being possible only via the mysql GUI for security reasons).
 3. go to your account page -> click "Admin Panel". This will take you to the admin panel.
 4. click "Load API". This will load the rates api to the database.
 5. exit the admin panel by clicking "Exit Admin Panel"
+
+
+**Cuurently not working**
+The chart is currently not working. The issue is that when a chart ( no matter what api I use ) the screan goes blank.
+This is a WIP issue.
