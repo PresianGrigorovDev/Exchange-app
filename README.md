@@ -47,7 +47,7 @@ To make sure that the app is going to work without erros, you have to do the fol
 2. Cleared the clutter of code by simplifing the code to a minimum. 
 3. Used the latest version of Laravel to make sure everything is up to date.
 
-**Cuurently not working**
+**Curently not working**
 ====================
 The chart is currently not working. The issue is that when a chart ( no matter what api I use ) generates, the screan goes blank.
 This is a WIP issue.
